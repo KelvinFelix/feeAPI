@@ -1,4 +1,4 @@
-# FeeNice
+# FeeAPI
 
 An API for help you to solve your fee calculations. 
 
